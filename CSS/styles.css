@@ -1,0 +1,198 @@
+.btn-rounded-sm {
+    background-color: black;
+    border-radius: 50px;
+    font-family: 'Whitney', Helvetica, Arial, sans-serif;
+    font-weight: 800;
+    padding: 10px;
+    border: none;
+    color: #fff;
+    font-size: small;
+
+    transition: .3s;
+}
+
+.btn-rounded-md {
+    background-color: black;
+    border-radius: 50px;
+    font-family: 'Whitney', Helvetica, Arial, sans-serif;
+    font-weight: 800;
+    padding: 15px 30px;
+    border: none;
+    color: #fff;
+    font-size: large;
+
+    transition: .3s;
+}
+
+.btn-rounded-lg {
+    background-color: black;
+    border-radius: 50px;
+    font-family: 'Whitney', Helvetica, Arial, sans-serif;
+    font-weight: 800;
+    padding: 17px;
+    border: none;
+    color: #fff;
+    font-size: x-large;
+
+    transition: .3s;
+}
+
+.btn-squared-sm {
+    background-color: black;
+    border-radius: 5px;
+    font-family: 'Whitney', Helvetica, Arial, sans-serif;
+    font-weight: 800;
+    padding: 10px;
+    border: none;
+    color: #fff;
+    font-size: small;
+
+    transition: .3s;
+}
+
+.btn-squared-sm:hover {
+    cursor: pointer;
+}
+
+.btn-squared-sm:focus {
+    outline: none;
+}
+
+.btn-squared-md {
+    background-color: black;
+    border-radius: 5px;
+    font-family: 'Whitney', Helvetica, Arial, sans-serif;
+    font-weight: 800;
+    padding: 15px 30px;
+    border: none;
+    color: #fff;
+    font-size: large;
+
+    transition: .3s;
+}
+
+.btn-squared-md:hover {
+    cursor: pointer;
+}
+
+.btn-squared-md:focus {
+    outline: none;
+}
+
+.btn-squared-lg {
+    background-color: black;
+    border-radius: 5px;
+    font-family: 'Whitney', Helvetica, Arial, sans-serif;
+    font-weight: 800;
+    padding: 17px;
+    border: none;
+    color: #fff;
+    font-size: x-large;
+
+    transition: .3s;
+}
+
+.btn-squared-lg:hover {
+    cursor: pointer;
+}
+
+.btn-squared-lg:focus {
+    outline: none;
+}
+
+.btn-rounded-sm:hover {
+    cursor: pointer;
+}
+
+.btn-rounded-sm:focus {
+    outline-width: 0px;
+}
+
+.btn-rounded-lg:hover {
+    cursor: pointer;
+}
+
+.btn-rounded-lg:focus {
+    outline-width: 0px;
+}
+
+.btn-rounded-md:hover {
+    cursor: pointer;
+}
+
+.btn-rounded-md:focus {
+    outline-width: 0px;
+}
+
+.black {
+    background-color: black;
+}
+
+.black:hover {
+    background-color: #666666;
+}
+
+.blue {
+    background-color: #0018F5;
+}
+
+.blue:hover {
+    background-color: #4D5EFF;
+}
+
+.link-wh:link {
+    color: #fff;
+    font-family: 'Whitney', Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.link-wh:hover {
+    color: #fff;
+    text-decoration: underline white;
+}
+
+.link-wh:visited {
+    color: #fff;
+    font-family: 'Whitney', Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.link-bl:link {
+    color: #0018F5;
+    font-family: 'Whitney', Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.link-bl:hover {
+    color: #4D5EFF;
+    text-decoration: underline #4D5EFF;
+}
+
+.link-bl:visited {
+    color: #0018F5;
+    font-family: 'Whitney', Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.link-gr:link {
+    color: #808080;
+    font-family: 'Whitney', Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.link-gr:hover {
+    color: #808080;
+    text-decoration: underline #808080;
+}
+
+.link-gr:visited {
+    color: #808080;
+    font-family: 'Whitney', Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+}
